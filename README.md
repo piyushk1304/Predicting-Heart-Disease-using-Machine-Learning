@@ -1,4 +1,5 @@
 Heart Disease Prediction using Machine Learning
+
 This project aims to predict whether a person has heart disease based on clinical features using machine learning. The dataset contains various attributes like age, sex, cholesterol levels, blood pressure, and other medical data points that can help in predicting the target variable: whether or not the patient has heart disease.
 
 Project Overview
